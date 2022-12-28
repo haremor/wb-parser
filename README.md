@@ -1,2 +1,2 @@
 # wb-parser
-Wildberries parser for men clothing
+Wildberries parser for men's clothing
