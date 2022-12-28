@@ -10,7 +10,6 @@ requests = "*"
 gunicorn = "*"
 django-heroku = "*"
 django-cors-headers = "*"
-python-decouple = "*"
 
 [dev-packages]
 autopep8 = "*"
